@@ -1,3 +1,3 @@
 # api.zue.dev
 
-My personal API.
+My personal API, powered by Cloudflare Workers.
